@@ -1,6 +1,6 @@
 # Slidy na Datavis meetup Brno prosinec 2022
 
-Slides [HTML](https://petrbouchal.xyz/datavis-meetup-2022/) + [PDF](https://petrbouchal.xyz/datavis-meetup-2022/slides.pdf)
+Slides [HTML](https://petrbouchal.xyz/data-vis-meetup-2022/) + [PDF](https://petrbouchal.xyz/data-vis-meetup-2022/slides.pdf)
 
 [data+vis meetup Brno](https://datavismeetup.cz/)
 
