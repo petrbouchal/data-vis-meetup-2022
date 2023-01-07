@@ -1,0 +1,110 @@
+---
+title: "Data, analýzy, poznatky a ...grafy ve státní správě"
+subtitle: "data+vis meetup #8<br>1. 12. 2022"
+author: Petr Bouchal
+format: 
+  revealjs:
+    theme: [dark, slides.scss]
+    mathjax: null
+    slide-level: 3
+    progress: false
+    preview-links: true
+  
+editor: visual
+---
+
+# Kdo jsem
+
+# Co dnes tady
+
+### 
+
+::: vertical-center
+> Trávím velkou část času s úředníky a snažím se jim pomoct lépe pracovat s daty a poznatky.
+
+<br>
+
+Co byste chtěli vědět?
+:::
+
+# Proč vám o tom chci povídat?
+
+## Paralely s datavis:<br>proces, publikum...
+
+## Zlepšování státu je jako <br>zlepšování grafů
+
+## Tech fixes/skills<br>a lidské rozměry věci
+
+## Týmy, dovednosti, nástroje
+
+## Úředníci vizualizují věci!
+
+# Projekt PANK
+
+### Co a proč?
+
+::: vertical-center
+1.  pomoct dělat lepší analytickou práci
+
+2.  podpořit využití analýz v rozhodování
+
+3.  něco se z toho naučit a přenést dál
+:::
+
+### Jak
+
+::: vertical-center
+úroveň týmu
+
+6 týmů na různých ministerstvech
+
+vstupní výzkum + "intervence"
+
+akční výzkum / zúčastněné pozorovnání
+
+provázení, podpora, nápady, zpětná vazba
+
+aplikace evidence-based přístupů a dobré praxe
+:::
+
+### Slova
+
+::: vertical-center
+#### Analytik {.fragment}
+
+#### Analytická práce {.fragment}
+
+#### Evidence-based? co? {.fragment}
+
+#### Policy? {.fragment}
+:::
+
+# Jak to vypadá reálně?
+
+## Hodně různě
+
+## Úředníci to nemají lehké
+
+## Základní kameny často hodně pomůžou
+
+## Ledacos se daří
+
+## Postupy z designu jsou relevantní
+
+## Externí výzkumník jako spouštěč
+
+# Co bych chtěl vědět
+
+## Jak zvenčí pomáhat týmům?
+
+## Co z vašich toolboxů byste rozdali úředníkům?
+
+## Jak pomáhat se skills v "minoritních" aktivitách?
+
+# Díky!
+
+<br>
+
+pbouchal\@gmail.com \| petrbouchal.xyz
+
+ceskepriority.cz + pank.cz
